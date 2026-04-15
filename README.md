@@ -1,13 +1,3 @@
-# Privacy Policy Comparative Analysis
-## DATA6550 Digital Privacy Agreement Audit - Final Report
-
-**Team Members:** [Add your team member names]  
-**Date:** April 15, 2026  
-**Course:** DATA6550 - Digital Privacy  
-**Instructor:** Dr. Jeffrey Wallin
-
----
-
 ## Executive Summary
 
 This project conducted a comprehensive privacy policy analysis of 12 major digital services spanning social media, communication, entertainment, financial services, cloud storage, and professional networking platforms. Our team systematically evaluated each service against California Consumer Privacy Act (CCPA), Virginia Consumer Data Protection Act (VCDPA), and General Data Protection Regulation (GDPR) requirements through detailed policy review, regulatory compliance assessment, and comparative analysis.
